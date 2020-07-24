@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'rtdtest'
+project = 'fuck'
 copyright = '2020, fuck'
 author = 'fuck'
 
